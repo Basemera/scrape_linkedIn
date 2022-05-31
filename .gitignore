@@ -1,0 +1,4 @@
+.venv
+scrapper/. dockerignore
+scrapper/scrapper/__pycache__/
+scrapper/db.sqlite3
